@@ -1,7 +1,0 @@
-#LWP-Cookies-2.0
-Set-Cookie3: 1P_JAR="2022-11-25-15"; path="/"; domain=".google.co.in"; path_spec; domain_dot; secure; expires="2022-12-25 15:33:05Z"; version=0
-Set-Cookie3: AEC="AakniGOkAsXuXFY0TEBsRScQnjR0tusZQqFw-tyUibafJBBBAUvlQ-yP3Iw"; path="/"; domain=".google.co.in"; path_spec; domain_dot; secure; expires="2023-05-24 15:28:27Z"; HttpOnly=None; SameSite=lax; version=0
-Set-Cookie3: NID="511=ooQf8DDwkkpZ3mMSCHjgVMSgbiCNzyvNa8dAk-Q6d_3cgvzTsB5rgF5ojxqneM-YhkbMwcf3XfJpik6AxFu39sRUnWA6DoNS4YaBD9pF71lWvgjJk1MCXhCwoSTrCCriBbvCPmHH_1SZVXNTz9AblKkCeMqCFt1YWHh5TP3atwQ"; path="/"; domain=".google.co.in"; path_spec; domain_dot; expires="2023-05-27 15:28:29Z"; HttpOnly=None; version=0
-Set-Cookie3: 1P_JAR="2022-11-26-04"; path="/"; domain=".google.com"; path_spec; domain_dot; secure; expires="2022-12-26 04:18:24Z"; version=0
-Set-Cookie3: AEC=AakniGNEpQ7l7RSAt9qqsea7EjGrkvL2dTWVmxlZQ5s9RFYS3ynf6f4fbT0; path="/"; domain=".google.com"; path_spec; domain_dot; secure; expires="2023-05-24 15:34:52Z"; HttpOnly=None; SameSite=lax; version=0
-Set-Cookie3: NID="511=T81n2WxnsxnIK3Kbtivz5xvVHPwHuTCUOYlnJpq9M63J-5aIspLeJAWJ9mnqSc7jjQqPT8Z8qBI9OHyXQwXgFdht0RWeDibAcFu5s5QV9byZGp_7Ym_hnA6ZjvVT07thLHdi45D3dGyeY_fFQA-qvIYXrRcQubH0V7J9LiAwj54"; path="/"; domain=".google.com"; path_spec; domain_dot; expires="2023-05-27 15:34:54Z"; HttpOnly=None; version=0
